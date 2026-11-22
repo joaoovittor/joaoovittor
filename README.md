@@ -11,29 +11,12 @@ Sou estudante de **Desenvolvimento Web**, cursando o **Técnico em Informática 
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+- **Front-end:** HTML5 • CSS3 • JavaScript (ES6+)
+- **Em aprendizado (SENAI):** Lógica de Programação • Back-end • Banco de Dados
+- **Ferramentas:** Git • GitHub • VS Code
 
 ---
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/joaoovittor/)
-
-<!--
-**joaoovittor/joaoovittor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn:** (https://www.://linkedin.com/)
