@@ -19,4 +19,4 @@ Sou estudante de **Desenvolvimento Web**, cursando o **Técnico em Informática 
 
 ### 📫 Onde me encontrar
 
-- **LinkedIn:** (https://www.linkedin.com/in/joaoovittor/)
+- **LinkedIn:** [linkedin.com/in/joaoovittor](https://www.linkedin.com/in/joaoovittor/)
